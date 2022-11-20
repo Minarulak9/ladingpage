@@ -2552,6 +2552,7 @@ footer.footer {
 }
 .in-service:hover {
   background: #3489ca;
+  color: white;
 }
 .in-service:hover .in-service-icon, .in-service:hover h5, .in-service:hover h5 a, .in-service:hover p {
   color: #ffffff;
@@ -4967,7 +4968,7 @@ footer.footer {
  * About Styles
  */
 .about-content {
-  padding: 75px 50px;
+  padding: 50px;
 
 }
 .about-content h6 {
