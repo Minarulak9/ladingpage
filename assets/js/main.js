@@ -84,8 +84,8 @@
 
 	/* Mobile Menu */
 	$('nav.in-navigation').meanmenu({
-		meanMenuOpen: '<i class="zmdi zmdi-menu"></i>',
-		meanMenuClose: '<i class="zmdi zmdi-close"></i>',
+		meanMenuOpen: '<i class="fa-solid fa-bars"></i>',
+		meanMenuClose: '<i class="fa-solid fa-xmark"></i>',
 		meanMenuCloseSize: '18px',
 		meanScreenWidth: '991',
 		meanExpandableChildren: true,
